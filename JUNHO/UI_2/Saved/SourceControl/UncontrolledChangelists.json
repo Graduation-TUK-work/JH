@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Desktop/UI_2/Content/2_UI.uasset",
+				"C:/Users/user/Desktop/UI_2/Content/2_HP_Bar.uasset",
+				"C:/Users/user/Desktop/UI_2/Content/2_RadioTW.uasset",
+				"C:/Users/user/Desktop/UI_2/Content/2_Phone.uasset"
+			]
+		}
+	]
+}
