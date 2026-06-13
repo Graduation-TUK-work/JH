@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Desktop/Flare/Content/NewMap.umap",
+				"C:/Users/user/Desktop/Flare/Content/NS_Flare.uasset",
+				"C:/Users/user/Desktop/Flare/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset",
+				"C:/Users/user/Desktop/Flare/Content/MAT_flare.uasset",
+				"C:/Users/user/Desktop/Flare/Content/flare_surface_BaseColor.uasset",
+				"C:/Users/user/Desktop/Flare/Content/flare_surface_Displacement.uasset",
+				"C:/Users/user/Desktop/Flare/Content/flare_surface_Emission.uasset",
+				"C:/Users/user/Desktop/Flare/Content/flare_surface_Normal.uasset",
+				"C:/Users/user/Desktop/Flare/Content/flare_surface_Roughness.uasset",
+				"C:/Users/user/Desktop/Flare/Content/juhani_digital_01_the_flare.uasset",
+				"C:/Users/user/Desktop/Flare/Content/flare_surface_BaseColor_Mat.uasset",
+				"C:/Users/user/Desktop/Flare/Content/M_smoke_subUV.uasset",
+				"C:/Users/user/Desktop/Flare/Content/M_Smoke_subUV_Custom.uasset",
+				"C:/Users/user/Desktop/Flare/Content/T_Smoke_SubUV_Custom_8x8.uasset"
+			]
+		}
+	]
+}
